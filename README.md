@@ -8,3 +8,4 @@ Um projeto feito com Bootstrap com o intuito de melhorar minha afinidade com o f
 * HTML
 * CSS
 * Java Script
+* Bootstrap
